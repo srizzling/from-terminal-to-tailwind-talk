@@ -1,0 +1,14 @@
+# Ignore environment-specific files
+.envrc
+
+# Ignore Devbox folder
+.devbox/
+
+# Ignore system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore node_modules if applicable
+node_modules/
