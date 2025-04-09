@@ -21,45 +21,72 @@ paginate: true
 <!-- Slide 1.5 - Introduction -->
 <!-- _class: lead _ -->
 <style>
-.intro-container {
+.split-intro {
   display: flex;
   align-items: center;
-  justify-content: space-around;
-  margin-top: 20px;
+  justify-content: space-between;
+  padding: 20px;
+  background: linear-gradient(135deg, #f3e5f5, #e1bee7);
+  border-radius: 10px;
 }
 
-.intro-text {
-  flex: 1;
-  text-align: left;
-  padding: 0 20px;
-}
-
-.intro-image {
+.left-intro {
   flex: 1;
   text-align: center;
+  font-family: 'Silkscreen', monospace;
+  font-size: 2em;
+  color: #4a148c;
 }
 
-.emoji-container {
-  font-size: 10em;
-  margin-top: 20px;
-  display: flex;
-  justify-content: center;
-  gap: 20px;
+.right-intro {
+  flex: 1;
+  text-align: center;
+  color: #000; /* Changed to black for maximum contrast */
+  text-shadow: 2px 2px 4px #fff; /* Enhanced shadow for better readability */
+}
+
+.right-intro img {
+  border-radius: 50%;
+  width: 150px;
+  margin-top: 10px;
+}
+
+.right-intro p {
+  font-size: 2em; /* Increased font size for emojis */
+}
+
+.speech-bubble {
+  position: relative;
+  background: #fff;
+  border-radius: .4em;
+  padding: 10px;
+  color: #4a148c;
+  font-size: 1.2em;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.speech-bubble:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border: 10px solid transparent;
+  border-top-color: #fff;
+  border-bottom: 0;
+  margin-left: -10px;
+  margin-bottom: -10px;
 }
 </style>
 
-<div class="intro-container">
-  <div class="intro-text">
-    <div class="emoji-container">
-        <div>🇱🇰</div>
-        <div>🍜</div>
-    </div>
-    <p>Lead Engineer exploring the frontend wilderness</p>
-    <p>AWS ☁️ Enthusiast</p>
+<div class="split-intro">
+  <div class="left-intro">
+    Hi, I'm <br> <span class="speech-bubble">Sriram</span>
   </div>
-  <div class="intro-image">
-    <!-- Replace 'your-avatar.png' with your actual avatar image -->
-    <img src="assets/avatar.jpeg" width="300" alt="Sriram's Avatar">
+  <div class="right-intro">
+    <img src="assets/avatar.jpeg" alt="Sriram's Avatar">
   </div>
 </div>
 
