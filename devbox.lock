@@ -1,0 +1,53 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "marp-cli@4.1.2": {
+      "last_modified": "2025-03-25T17:32:05Z",
+      "resolved": "github:NixOS/nixpkgs/25d1b84f5c90632a623c48d83a2faf156451e6b1#marp-cli",
+      "source": "devbox-search",
+      "version": "4.1.2",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ghfhfg5kg3kw92zmpc9lilbdhr2xlq6r-marp-cli-4.1.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ghfhfg5kg3kw92zmpc9lilbdhr2xlq6r-marp-cli-4.1.2"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/x95c8d7vmm6nwphdfq222qbh1682016c-marp-cli-4.1.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/x95c8d7vmm6nwphdfq222qbh1682016c-marp-cli-4.1.2"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/fdv1fwmv4wjagfhcib1k2vmnqjg8v492-marp-cli-4.1.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/fdv1fwmv4wjagfhcib1k2vmnqjg8v492-marp-cli-4.1.2"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/5nc98bg2z6r3p9ybrqpk4dbycbnq60bm-marp-cli-4.1.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/5nc98bg2z6r3p9ybrqpk4dbycbnq60bm-marp-cli-4.1.2"
+        }
+      }
+    }
+  }
+}
