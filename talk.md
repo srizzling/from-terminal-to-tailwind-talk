@@ -68,13 +68,12 @@ paginate: true
 <!-- Slide 2 -->
 <!-- _class: lead _ -->
 <style>
-.pixelated {
-  font-family: "Courier New", Courier, monospace;
-  font-size: 1em; /* Increased font size */
-  text-shadow: 0 0 5px #000, 0 0 4px #000, 0 0 9px #000; /* Enhanced shadow for stronger pixel effect */
-  letter-spacing: 3px; /* Increased letter spacing */
-}
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
 
+.pixelated {
+  font-family: 'Silkscreen', monospace;
+  font-size: 2em;
+}
 </style>
 
 ## Soooooo many **frameworks**
@@ -84,6 +83,7 @@ paginate: true
 <span class="pixelated">Requires pixel perfection</span>
 
 # <!--fit--> Not for **me**
+
 <!-- Speaker Notes: -->
 <!-- “You know the meme: new JS framework every week. As a backender, this felt exhausting and mysterious. Why does everyone care about pixels? I just wanted to ship something that worked. I once memorized how to center a div just for interviews… not because I understood it!” -->
 
