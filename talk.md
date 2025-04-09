@@ -149,16 +149,6 @@ paginate: true
 
 ---
 
-<!-- Slide 4 -->
-<!-- _class: lead _ -->
-
-# <!--fit--> 👉 frontend by ✍️ tests.
-
-<!-- Speaker Notes: -->
-<!-- “Fast forward a few years, I’m working with Behat, testing interfaces with CSS selectors. Technically touching the frontend... with a very long stick. I wasn’t designing, just verifying if stuff didn’t explode.” -->
-
----
-
 <!-- Slide 5 -->
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
