@@ -12,6 +12,10 @@ paginate: true
 
 **Sriram Venkatesh**
 
+<!-- Speaker Notes: -->
+<!-- Kick off with a smile. -->
+<!-- “Hi everyone, I’m Sriram — a backend engineer who somehow ended up touching Tailwind and JSX. This is the story of how that happened — not intentionally — but by stumbling, learning, and laughing along the way.” -->
+
 ---
 
 <!-- Slide 1.5 - Introduction -->
@@ -79,7 +83,9 @@ paginate: true
 
 <span class="pixelated">Requires pixel perfection</span>
 
-# <!--fit--> Not for **me**.
+# <!--fit--> Not for **me**
+<!-- Speaker Notes: -->
+<!-- “You know the meme: new JS framework every week. As a backender, this felt exhausting and mysterious. Why does everyone care about pixels? I just wanted to ship something that worked. I once memorized how to center a div just for interviews… not because I understood it!” -->
 
 ![bg full](assets/js-framework-explosion.jpg)
 
@@ -116,12 +122,18 @@ paginate: true
   <span class="carousel">Carousels</span>.
   <h1>Autoplay music</h1>
 
+<!-- Speaker Notes: -->
+<!-- “This was my actual first frontend project — editing Blogger templates, adding music, carousels, making it all very… chaotic. But it was fun. And unknowingly, this was my first exposure to web UI.” -->
+
 ---
 
 <!-- Slide 4 -->
 <!-- _class: lead _ -->
 
 # <!--fit--> 👉 frontend by ✍️ tests.
+
+<!-- Speaker Notes: -->
+<!-- “Fast forward a few years, I’m working with Behat, testing interfaces with CSS selectors. Technically touching the frontend... with a very long stick. I wasn’t designing, just verifying if stuff didn’t explode.” -->
 
 ---
 
@@ -171,18 +183,23 @@ paginate: true
 }
 </style>
 
-<!-- Slide 5 -->
 <div class="split-screen">
   <div class="left">Servers <br> YAML</div>
   <div class="middle">&gt;</div>
   <div class="right">✨Styling✨<br> ✨CSS✨</div>
 </div>
 
+<!-- Speaker Notes: -->
+<!-- “I thrived in infra land. Give me a terminal, logs, or Ansible — I’m happy. Styling though? Absolute chaos. Font-weight: 500? 600? Bold? Help. YAML made more sense than CSS to me.” -->
+
 ---
 
 <!-- Slide 6 -->
 
 ![Timeline](assets/timeline.png)
+
+<!-- Speaker Notes: -->
+<!-- “At Versent, I started in a platform team — Jenkins, pipelines, cloud infra. Then APIs at Transurban. Then events at Shell Energy. This slow but steady shift brought me closer to apps — and frontend wasn’t optional anymore.” -->
 
 ---
 
@@ -225,6 +242,9 @@ vue-logo {
   <div class="earnings">$19K</div> <a href="https://astrokitty.pages.dev" class="demo-button" target="_blank">Live Demo</a>
 </div>
 
+<!-- Speaker Notes: -->
+<!-- “In a burst of chaotic motivation, my friends and I built an altcoin site using Vue. In one weekend we made $19K. We were stunned. Vue was overkill for landing pages, but the project was alive and real!” -->
+
 ---
 
 <!-- Slide 8 -->
@@ -234,6 +254,9 @@ vue-logo {
 > "I didn't do much of the frontend here, but I helped build out certain features."
 
 <a href="https://prod.crafty.versent.io"><img src="assets/crafty-bear.png" width="400" alt="Crafty Avatar"></a>
+
+<!-- Speaker Notes: -->
+<!-- “Crafty was a project I helped on — not as the main frontend dev, but I contributed components and learned how modern React setups worked. A real team effort. And I started appreciating things like design systems.” -->
 
 ---
 
@@ -247,6 +270,9 @@ vue-logo {
 
 _Copilot._ _ChatGPT_. _Claude_. _My 24/7 pair buddy._
 
+<!-- Speaker Notes: -->
+<!-- “Let’s be honest — frontend is hard. Hooks? State? Tailwind? Having Copilot and ChatGPT was like having a 24/7 teammate. I didn’t always understand everything I pasted, but I could ask why — and that’s powerful.” -->
+
 ---
 
 <!-- Slide 10 -->
@@ -256,6 +282,9 @@ _Copilot._ _ChatGPT_. _Claude_. _My 24/7 pair buddy._
 # <!--fit--> Still not **frontend-y**…
 
 ## _but I get it now (**kinda**). And I’m not afraid._
+
+<!-- Speaker Notes: -->
+<!-- “I’m still not a pixel-perfect frontend dev. But I’m not afraid to try anymore. And that shift in mindset is everything. I don’t need to master it all — just stay curious and build.” -->
 
 ---
 
@@ -308,10 +337,25 @@ _Copilot._ _ChatGPT_. _Claude_. _My 24/7 pair buddy._
   <p>Try anything. AI has your back.</p>
 </div>
 
+<!-- Speaker Notes: -->
+<!-- “This talk, this whole journey, happened because I said yes to DevJam. It’s a safe space to try new tech, take risks, and just make something weird and cool. Seriously, get involved.” -->
+
 ---
 
 <!-- Slide 12 -->
 <!-- _class: lead _ -->
 <!--fit-->
 
-## <!--fit--> Curiosity + **Caffeine** + **Copilot** = 🚀
+<style>
+  .rainbow-text {
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+  }
+</style>
+
+## <!--fit--> Curiosity + **Caffeine** + <span class="rainbow-text">Copilot</span> = 🚀
+
+<!-- Speaker Notes: -->
+<!-- “Frontend still scares me a bit. But with curiosity, caffeine, and Copilot — you can build real things. Even accidentally. Like an altcoin site. Or a live demo. Or this talk.” -->
