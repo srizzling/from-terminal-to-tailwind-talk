@@ -386,3 +386,7 @@ _Copilot._ _ChatGPT_. _Claude_. _My 24/7 pair buddy._
 
 <!-- Speaker Notes: -->
 <!-- “Frontend still scares me a bit. But with curiosity, caffeine, and Copilot — you can build real things. Even accidentally. Like an altcoin site. Or a live demo. Or this talk.” -->
+
+**Speaker Notes:**
+
+> “I know people on the bench might feel anxious about not knowing what to do next. One idea is to use this time to explore tech you aren’t typically exposed to. Maybe try earning a certification or building something in that domain. It’s a great way to grow and stay engaged while waiting for your next opportunity.”
