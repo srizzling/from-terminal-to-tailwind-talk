@@ -373,3 +373,53 @@ _Copilot._ _ChatGPT_. _Claude_. _My 24/7 pair buddy._
 <!-- “Frontend still scares me a bit. But with curiosity, caffeine, and Copilot — you can build real things. Even accidentally. Like an altcoin site. Or a live demo. Or this talk.”
 
 I know people on the bench might feel anxious about not knowing what to do next. One idea is to use this time to explore tech you aren’t typically exposed to. Maybe try earning a certification or building something in that domain. It’s a great way to grow and stay engaged while waiting for your next opportunity.
+```
+
+---
+
+<!-- Slide 13 -->
+<!-- _class: lead _ -->
+<!--fit-->
+
+---
+
+<!-- Slide 14 -->
+<!-- _class: lead _ -->
+<!--fit-->
+
+<style>
+  .feedback-slide {
+    text-align: center;
+    font-size: 1.5em;
+    color: #4a148c;
+    padding: 20px;
+  }
+
+  .feedback-slide h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+
+  .feedback-slide p {
+    margin: 10px 0;
+  }
+
+  .feedback-slide a {
+    color: #4a148c;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  .feedback-slide a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<div class="feedback-slide">
+  <h1>Feedback</h1>
+  <ul>
+    <li>Slack DM: <strong>@sri</strong></li>
+    <li>Email: <a href="mailto:sriram.venkatesh@versent.com.au">sriram.venkatesh@versent.com.au</a></li>
+    <li>Or just find me after this talk!</li>
+  </ul>
+</div>
