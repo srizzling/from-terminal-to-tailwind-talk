@@ -417,9 +417,12 @@ I know people on the bench might feel anxious about not knowing what to do next.
 
 <div class="feedback-slide">
   <h1>Feedback</h1>
+  <p>I'd love to hear your thoughts on this talk!</p>
+  <p>You can reach me via:</p>
   <ul>
     <li>Slack DM: <strong>@sri</strong></li>
     <li>Email: <a href="mailto:sriram.venkatesh@versent.com.au">sriram.venkatesh@versent.com.au</a></li>
+    <li>Slack Channel: <strong>#craft-talks</strong> (mention <strong>@sri</strong>)</li>
     <li>Or just find me after this talk!</li>
   </ul>
 </div>
